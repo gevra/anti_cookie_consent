@@ -1,5 +1,11 @@
 # About
-A Google Chrome extension removing the annoying cookie consent form without consenting to cookies.
+<b>Are you tired of popups and overlays asking for your consent to use cookies?</b>
+<br>
+<br>
+<b>Are you annoyed because the websites do not give you the option to continue without allowing cookies?</b>
+
+
+This Google Chrome extension allows you to remove the annoying cookie consent forms without consenting to cookies.
 
 # Installation
 <ol>
@@ -14,6 +20,6 @@ See the screenshot below.
 ![Screenshot from doodle.com](screenshot_doodle.com.png)
 
 # Version
-0.0.1 (published on 18.06.2019)
+0.0.1.1 (published on 19.06.2019)
 
 
