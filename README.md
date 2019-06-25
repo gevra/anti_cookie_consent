@@ -19,7 +19,13 @@ The cookie consent form removal is triggered by clicking on the extension icon a
 See the screenshot below.
 ![Screenshot from doodle.com](screenshot_doodle.com.png)
 
-# Version
-0.0.1.1 (published on 19.06.2019)
+# Release Notes
+## 0.0.1.2 (published on 25.06.2019)
+added support for Optanon overlays on e.g. the likes of thesaurus.com
 
+## 0.0.1.1 (published on 19.06.2019)
+added support for TrustE overlays on e.g. the likes of forbes.com
+
+## 0.0.1 (published on 18.06.2019)
+support for Quantcast overlays on e.g. doodle.com atlantic.com etc.
 
