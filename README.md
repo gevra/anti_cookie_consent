@@ -20,6 +20,9 @@ See the screenshot below.
 ![Screenshot from doodle.com](screenshot_doodle.com.png)
 
 # Release Notes
+## 0.0.1.3 (published on 04.07.2019)
+added support for the likes of buzz.ie
+
 ## 0.0.1.2 (published on 25.06.2019)
 added support for Optanon overlays on e.g. the likes of thesaurus.com
 

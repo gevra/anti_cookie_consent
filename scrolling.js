@@ -16,3 +16,9 @@ $(".truste_overlay").remove();
 $("#optanon").remove();
 $(".optanon-alert-box-wrapper").remove();
 
+// remove overlays from buzz.ie and alike
+$("#gdpr-consent-notice").remove();
+document.querySelector('html').classList.remove("noscroll");
+document.querySelector('body').classList.remove("noscroll");
+document.querySelector('body').classList.remove("ready-to-scroll");
+
